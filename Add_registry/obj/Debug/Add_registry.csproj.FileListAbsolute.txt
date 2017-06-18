@@ -1,0 +1,8 @@
+c:\users\theflash\documents\visual studio 2017\Projects\Add_registry\Add_registry\bin\Debug\Add_registry.exe.config
+c:\users\theflash\documents\visual studio 2017\Projects\Add_registry\Add_registry\bin\Debug\Add_registry.exe
+c:\users\theflash\documents\visual studio 2017\Projects\Add_registry\Add_registry\bin\Debug\Add_registry.pdb
+c:\users\theflash\documents\visual studio 2017\Projects\Add_registry\Add_registry\obj\Debug\Add_registry.Form1.resources
+c:\users\theflash\documents\visual studio 2017\Projects\Add_registry\Add_registry\obj\Debug\Add_registry.Properties.Resources.resources
+c:\users\theflash\documents\visual studio 2017\Projects\Add_registry\Add_registry\obj\Debug\Add_registry.csproj.GenerateResource.Cache
+c:\users\theflash\documents\visual studio 2017\Projects\Add_registry\Add_registry\obj\Debug\Add_registry.exe
+c:\users\theflash\documents\visual studio 2017\Projects\Add_registry\Add_registry\obj\Debug\Add_registry.pdb
